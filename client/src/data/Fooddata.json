@@ -1,0 +1,341 @@
+{
+  "Default": {
+    "cuisine": "International",
+    "veg": true,
+    "preptime": "Preparation",
+    "cookingtime": "Cooking",
+    "serving": "people",
+    "ingredients": [
+      { "name": "Love", "qty": "Generous handful" },
+      { "name": "Creativity", "qty": "A dash of inspiration" },
+      { "name": "Passion", "qty": "Overflowing" },
+      { "name": "Skill", "qty": "Pinch of expertise" }
+    ],
+    "instruction": [
+      "Start with Fresh Ingredients",
+      "Keep Your Kitchen Clean and Organized",
+      "Follow the Recipe",
+      "Taste and Adjust"
+    ],
+    "nutrientfact": {
+      "fat": "-",
+      "protein": "-",
+      "sugar": "-",
+      "carbo": "-"
+    },
+    "description": "Mouthwatering perfection, this dish captivates with its rich, savory symphony, showcasing a medley of exquisite flavors that dance on the palate, elevating every culinary experience."
+  },
+  "Chapati": {
+    "cuisine": "Indian",
+    "veg": true,
+    "preptime": "15 min",
+    "cookingtime": "15 min",
+    "serving": "4 ppl",
+    "ingredients": [
+      { "name": "Whole Wheat Flour", "qty": "2 cups" },
+      { "name": "Water", "qty": "1 cup" },
+      { "name": "Salt", "qty": "1/2 tsp" },
+      { "name": "Ghee", "qty": "1 tbsp" }
+    ],
+    "instruction": [
+      "Mix whole wheat flour, water, and salt to form a dough.",
+      "Divide into small balls and roll into flat circles (chapatis).",
+      "Cook on a hot griddle until both sides are lightly browned.",
+      "Brush with ghee and serve hot."
+    ],
+    "nutrientfact": {
+      "fat": "2g",
+      "protein": "4g",
+      "sugar": "0g",
+      "carbo": "20g"
+    },
+    "description": "A wholesome Indian flatbread, Chapati, made with whole wheat flour, water, and a touch of ghee, serving as a versatile accompaniment to various dishes."
+  },
+  "CheeseCake": {
+    "cuisine": "International",
+    "veg": true,
+    "preptime": "30 min",
+    "cookingtime": "4 hrs",
+    "serving": "8 ppl",
+    "ingredients": [
+      { "name": "Cream Cheese", "qty": "2 cups" },
+      { "name": "Sugar", "qty": "1 cup" },
+      { "name": "Eggs", "qty": "3" },
+      { "name": "Vanilla Extract", "qty": "1 tsp" },
+      { "name": "Graham Cracker Crumbs", "qty": "1 1/2 cups" },
+      { "name": "Butter", "qty": "1/2 cup, melted" }
+    ],
+    "instruction": [
+      "Mix graham cracker crumbs with melted butter and press into a crust.",
+      "Beat cream cheese, sugar, eggs, and vanilla extract until smooth.",
+      "Pour the mixture over the crust and bake until set.",
+      "Chill in the refrigerator for at least 4 hours before serving."
+    ],
+    "nutrientfact": {
+      "fat": "30g",
+      "protein": "8g",
+      "sugar": "20g",
+      "carbo": "40g"
+    },
+    "description": "Indulge in the creamy goodness of a homemade cheesecake, with a buttery graham cracker crust and a luscious cream cheese filling, creating a delightful dessert experience."
+  },
+  "Dhokla": {
+    "cuisine": "Indian",
+    "veg": true,
+    "preptime": "8 hrs",
+    "cookingtime": "20 min",
+    "serving": "6 ppl",
+    "ingredients": [
+      { "name": "Gram Flour (Besan)", "qty": "1 cup" },
+      { "name": "Yogurt", "qty": "1/2 cup" },
+      { "name": "Semolina (Rava)", "qty": "1/4 cup" },
+      { "name": "Green Chili Paste", "qty": "1 tbsp" },
+      { "name": "Ginger Paste", "qty": "1 tbsp" },
+      { "name": "Eno Fruit Salt", "qty": "1 tsp" },
+      { "name": "Mustard Seeds", "qty": "1 tsp" }
+    ],
+    "instruction": [
+      "Mix gram flour, yogurt, semolina, green chili paste, and ginger paste to form a batter.",
+      "Add Eno fruit salt and steam until the dhokla is cooked.",
+      "Temper with mustard seeds for added flavor.",
+      "Cut into pieces and serve with chutney."
+    ],
+    "nutrientfact": {
+      "fat": "5g",
+      "protein": "3g",
+      "sugar": "1g",
+      "carbo": "15g"
+    },
+    "description": "Enjoy the light and spongy texture of Dhokla, a steamed savory cake made from gram flour, yogurt, and spices, served with a flavorful tempering."
+  },
+  "Donut": {
+    "cuisine": "International",
+    "veg": true,
+    "preptime": "2 hrs",
+    "cookingtime": "15 min",
+    "serving": "6 ppl",
+    "ingredients": [
+      { "name": "All-Purpose Flour", "qty": "2 cups" },
+      { "name": "Milk", "qty": "1/2 cup" },
+      { "name": "Sugar", "qty": "1/4 cup" },
+      { "name": "Yeast", "qty": "2 tsp" },
+      { "name": "Vanilla Extract", "qty": "1 tsp" }
+    ],
+    "instruction": [
+      "Combine flour, milk, sugar, yeast, and vanilla extract to form a dough.",
+      "Let it rise for 1-2 hrs.",
+      "Roll out the dough, cut into rings, and fry until golden brown.",
+      "Optional: Glaze or sprinkle with powdered sugar."
+    ],
+    "nutrientfact": {
+      "fat": "15g",
+      "protein": "3g",
+      "sugar": "10g",
+      "carbo": "30g"
+    },
+    "description": "Indulge in the sweetness of homemade international-style donuts, crafted with a light and airy dough, fried to perfection, and optionally glazed or sugared."
+  },
+  "Idli": {
+    "cuisine": "Indian",
+    "veg": true,
+    "preptime": "8 hrs",
+    "cookingtime": "15 min",
+    "serving": "4 ppl",
+    "ingredients": [
+      { "name": "Idli Rice", "qty": "2 cups" },
+      { "name": "Urad Dal", "qty": "1 cup" },
+      { "name": "Salt", "qty": "1 tsp" }
+    ],
+    "instruction": [
+      "Soak idli rice and urad dal separately for 4-6 hrs.",
+      "Grind to a smooth batter, mix, and ferment for 6-8 hrs.",
+      "Add salt, pour into idli molds, and steam for 10-12 min.",
+      "Serve hot with chutney and sambar."
+    ],
+    "nutrientfact": {
+      "fat": "1g",
+      "protein": "2g",
+      "sugar": "0g",
+      "carbo": "20g"
+    },
+    "description": "Experience the light and fluffy texture of traditional South Indian idlis, made from a fermented batter of idli rice and urad dal, served with flavorful chutney and sambar."
+  },
+  "KaathiRolls": {
+    "cuisine": "Indian",
+    "veg": false,
+    "preptime": "30 min",
+    "cookingtime": "15 min",
+    "serving": "4 ppl",
+    "ingredients": [
+      { "name": "Chicken Breast", "qty": "250g, thinly sliced" },
+      { "name": "Roti or Paratha", "qty": "4" },
+      { "name": "Yogurt", "qty": "1/2 cup" },
+      { "name": "Ginger-Garlic Paste", "qty": "1 tbsp" },
+      {
+        "name": "Spices (Cumin, Coriander, Garam Masala)",
+        "qty": "1 tsp each"
+      },
+      { "name": "Onion", "qty": "1, thinly sliced" },
+      { "name": "Tomato", "qty": "1, thinly sliced" },
+      { "name": "Lettuce", "qty": "1 cup, shredded" },
+      { "name": "Oil", "qty": "2 tbsp" }
+    ],
+    "instruction": [
+      "Marinate chicken with yogurt, ginger-garlic paste, and spices. Cook until done.",
+      "Heat roti or paratha and assemble with cooked chicken, onion, tomato, and lettuce.",
+      "Roll tightly and secure with a toothpick.",
+      "Serve hot with chutney or sauce."
+    ],
+    "nutrientfact": {
+      "fat": "15g",
+      "protein": "25g",
+      "sugar": "2g",
+      "carbo": "30g"
+    },
+    "description": "Savor the flavors of Indian street food with Kaathi Rolls, featuring spiced chicken wrapped in soft roti or paratha, topped with fresh veggies for a delightful and filling meal."
+  },
+  "Kulfi": {
+    "cuisine": "Indian",
+    "veg": true,
+    "preptime": "20 min",
+    "freezingtime": "6 hrs",
+    "serving": "6 ppl",
+    "ingredients": [
+      { "name": "Milk", "qty": "2 cups" },
+      { "name": "Condensed Milk", "qty": "1/2 cup" },
+      { "name": "Sugar", "qty": "1/4 cup" },
+      { "name": "Cardamom Powder", "qty": "1/2 tsp" },
+      { "name": "Pistachios", "qty": "2 tbsp, chopped" },
+      { "name": "Almonds", "qty": "2 tbsp, sliced" }
+    ],
+    "instruction": [
+      "Boil milk with sugar and condensed milk, stirring continuously.",
+      "Add cardamom powder, pistachios, and almonds. Mix well.",
+      "Pour into kulfi molds and freeze for at least 6 hours.",
+      "Unmold and serve the creamy and nutty kulfi."
+    ],
+    "nutrientfact": {
+      "fat": "10g",
+      "protein": "5g",
+      "sugar": "20g",
+      "carbo": "15g"
+    },
+    "description": "Cool down with the rich and creamy goodness of Indian Kulfi, a frozen dessert made with milk, condensed milk, and a blend of nuts, offering a delightful treat for dessert lovers."
+  },
+  "Jalebi": {
+    "cuisine": "Indian",
+    "veg": true,
+    "preptime": "15 min",
+    "cookingtime": "20 min",
+    "serving": "6 ppl",
+    "ingredients": [
+      { "name": "All-Purpose Flour", "qty": "1 cup" },
+      { "name": "Yogurt", "qty": "1/2 cup" },
+      { "name": "Sugar", "qty": "2 cups" },
+      { "name": "Water", "qty": "1 cup" },
+      { "name": "Saffron Strands", "qty": "few" }
+    ],
+    "instruction": [
+      "Mix all-purpose flour and yogurt to form a smooth batter.",
+      "Let it rest for 12 hrs to ferment.",
+      "Boil sugar, water, and saffron to make a syrup.",
+      "Pour the batter into concentric circles into hot oil, fry until golden, and soak in syrup."
+    ],
+    "nutrientfact": {
+      "fat": "5g",
+      "protein": "1g",
+      "sugar": "30g",
+      "carbo": "40g"
+    },
+    "description": "Indulge in the delightful sweetness of Indian jalebi, made from fermented batter, deep-fried, and soaked in saffron-infused sugar syrup."
+  },
+  "MasalaDosa": {
+    "cuisine": "Indian",
+    "veg": true,
+    "preptime": "12 hrs",
+    "cookingtime": "20 min",
+    "serving": "4 ppl",
+    "ingredients": [
+      { "name": "Rice", "qty": "1 cup" },
+      { "name": "Urad Dal", "qty": "1/2 cup" },
+      { "name": "Potatoes", "qty": "4, boiled and mashed" },
+      { "name": "Mustard Seeds", "qty": "1 tsp" },
+      { "name": "Cumin Seeds", "qty": "1 tsp" },
+      { "name": "Chana Dal", "qty": "1 tbsp" },
+      { "name": "Curry Leaves", "qty": "few" },
+      { "name": "Turmeric Powder", "qty": "1/2 tsp" }
+    ],
+    "instruction": [
+      "Soak rice and urad dal separately for 6-8 hrs.",
+      "Grind to a smooth batter and ferment for 6-12 hrs.",
+      "Prepare a tempering of mustard seeds, cumin seeds, chana dal, and curry leaves.",
+      "Spread dosa batter, add mashed potatoes, fold, and cook until crispy."
+    ],
+    "nutrientfact": {
+      "fat": "5g",
+      "protein": "3g",
+      "sugar": "1g",
+      "carbo": "20g"
+    },
+    "description": "Delight in the crispiness of Masala Dosa, a South Indian favorite made with fermented rice and urad dal batter, filled with a spiced potato mixture, and served with chutney."
+  },
+  "PaniPuri": {
+    "cuisine": "Indian",
+    "veg": true,
+    "preptime": "30 min",
+    "cookingtime": "15 min",
+    "serving": "4 ppl",
+    "ingredients": [
+      { "name": "Puri Shells", "qty": "20" },
+      { "name": "Boiled Potatoes", "qty": "3, mashed" },
+      { "name": "Boiled Chickpeas", "qty": "1 cup" },
+      { "name": "Tamarind Pulp", "qty": "1/2 cup" },
+      { "name": "Mint Leaves", "qty": "1 cup" },
+      { "name": "Green Chilies", "qty": "2" },
+      { "name": "Cumin Powder", "qty": "1 tsp" },
+      { "name": "Black Salt", "qty": "1/2 tsp" },
+      { "name": "Chilled Water", "qty": "2 cups" }
+    ],
+    "instruction": [
+      "Prepare the spicy water by blending mint leaves, green chilies, cumin powder, and black salt with chilled water.",
+      "Mix tamarind pulp with water to create a sweet chutney.",
+      "Gently make a hole in each puri shell and stuff them with mashed potatoes, boiled chickpeas, sweet chutney, and spicy water.",
+      "Serve immediately and savor the burst of flavors in each Pani Puri!"
+    ],
+    "nutrientfact": {
+      "fat": "3g",
+      "protein": "2g",
+      "sugar": "5g",
+      "carbo": "15g"
+    },
+    "description": "Experience the delightful and tangy explosion of flavors with Pani Puri, a popular Indian street food, featuring crispy puri shells filled with mashed potatoes, chickpeas, sweet chutney, and spicy mint water."
+  },
+  "Samosa": {
+    "cuisine": "Indian",
+    "veg": true,
+    "preptime": "30 min",
+    "cookingtime": "20 min",
+    "serving": "8 ppl",
+    "ingredients": [
+      { "name": "Potatoes", "qty": "4, boiled and mashed" },
+      { "name": "Peas", "qty": "1 cup, cooked" },
+      { "name": "Cumin Seeds", "qty": "1 tsp" },
+      { "name": "Coriander Powder", "qty": "1 tsp" },
+      { "name": "Garam Masala", "qty": "1/2 tsp" },
+      { "name": "Phyllo Pastry Sheets", "qty": "8" }
+    ],
+    "instruction": [
+      "In a pan, temper cumin seeds, add mashed potatoes, peas, and spices.",
+      "Cut phyllo pastry sheets into strips, fold into a cone, fill with the potato mixture, and seal.",
+      "Deep-fry until golden brown.",
+      "Serve hot with chutney."
+    ],
+    "nutrientfact": {
+      "fat": "8g",
+      "protein": "2g",
+      "sugar": "1g",
+      "carbo": "15g"
+    },
+    "description": "Delight your taste buds with the savory goodness of Indian samosas, filled with a flavorful mixture of potatoes, peas, and spices, wrapped in crispy phyllo pastry."
+  }
+}
